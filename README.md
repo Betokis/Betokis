@@ -30,8 +30,4 @@ Hi, I'm Alberto!
 ---
 [![](https://visitcount.itsvg.in/api?id=Aneal07&icon=2&color=4)](https://visitcount.itsvg.in)
 
-------
 
-Credit: [Aneal07](https://github.com/Aneal07)
-
-Last Edited on: 18/11/2023
