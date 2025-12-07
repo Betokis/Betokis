@@ -18,7 +18,7 @@ I thrive on bringing ideas from concept to deployment. I am the creator of **IB 
 
 <br>
   
-<h3 align="center">✨ My Toolkit</h3>
+<h3 align="center">MY TOOLKIT</h3>
 <p align="center"> 
     <img src="https://skillicons.dev/icons?i=python,kali,docker,javascript,bash,cpp,linux,tailwind" />
 </p>
