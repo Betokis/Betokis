@@ -13,7 +13,7 @@ My fascination with technology began at a young age, driving me to build program
 <h3>🎧 Music Production & Theory</h3>
 My deep love for music is rooted in my childhood. My brother, who has always been my closest friend, introduced me to playing the piano and later opened the doors to the complex world of digital music production. I find a unique parallel between the logic of coding and the structure of musical composition, often using code to explore generative music concepts.
 
-<h3>💻 Full-Stack Development</h3>
+<h3>💻 Full-Stack</h3>
 I thrive on bringing ideas from concept to deployment. I am the creator of **IB Connection** ([Figma Site](https://floret-reader-02117305.figma.site)), an organizational platform designed to help students, especially those struggling with time management. I specialize in developing robust and scalable applications across the entire stack.
 
 <br>
