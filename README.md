@@ -7,7 +7,7 @@ Hi, I'm Alberto!
 
 <table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top" width="60%">
   
-<h3>🛡️ Cybersecurity & Ethical Hacking</h3>
+<h3>🛡️ Cybersecurity</h3>
 My fascination with technology began at a young age, driving me to build programs and assemble my own PCs. However, over the last four years, I've found a greater challenge and interest in exploring system vulnerabilities and defensive strategies. It turns out that understanding how to 'break' things ethically is far more complex—and fun!—than just building them.
 
 <h3>🎧 Music Production & Theory</h3>
