@@ -7,70 +7,268 @@
   </picture>
 </a>
 
-<br><br>
+<br>
 
-<!-- LIVE STATUS BAR -->
-<a href="https://wakatime.com/@Betokis"><img src="https://wakatime.com/badge/user/ecf2c7e0-0e10-4a6a-8b0a-1a5c9b7e8d3e.svg?style=for-the-badge&color=00d4aa" alt="WakaTime"></a>
-<img src="https://img.shields.io/badge/Focus-IB%20Connection-%2300d4aa?style=for-the-badge" alt="Focus">
-<img src="https://img.shields.io/badge/Mood-Deep%20Focus-%23a855f7?style=for-the-badge" alt="Mood">
-<img src="https://img.shields.io/badge/Coding%20Since-2022-%23007bff?style=for-the-badge" alt="Coding Since">
+<!-- IDENTITY BADGES -->
+<img src="https://img.shields.io/badge/IB%20Diploma-DP2%20Final%20Year-%2300d4aa?style=for-the-badge&labelColor=0d1117" alt="IB Diploma">
+<img src="https://img.shields.io/badge/Track-Computer%20Science-%23a855f7?style=for-the-badge&labelColor=0d1117" alt="CS Track">
+<img src="https://img.shields.io/badge/Expertise-Cybersecurity-%23ff6b6b?style=for-the-badge&labelColor=0d1117" alt="Cyber Expert">
+<img src="https://img.shields.io/badge/Mood-Deep%20Work-%2300d4aa?style=for-the-badge&labelColor=0d1117" alt="Mood">
 
 <br>
 
-<!-- QUICK BIO -->
-<table align="center">
+<!-- LIVE STATUS BAR -->
+<sub>
+<a href="https://wakatime.com/@Betokis"><img src="https://wakatime.com/badge/user/ecf2c7e0-0e10-4a6a-8b0a-1a5c9b7e8d3e.svg?style=flat-square&color=00d4aa" alt="WakaTime"></a>
+<img src="https://img.shields.io/badge/Building-IB%20Connection-%2300d4aa?style=flat-square" alt="Building">
+<img src="https://img.shields.io/badge/Hacking-HTB%2042%20machines-%23ff6b6b?style=flat-square" alt="HTB">
+<img src="https://img.shields.io/badge/Learning-Rust%20%26%20Distributed%20Systems-%23a855f7?style=flat-square" alt="Learning">
+<img src="https://img.shields.io/badge/Next-CJCA%20Cert-%23ffa657?style=flat-square" alt="CJCA">
+</sub>
+
+</div>
+
+<!-- ======================================================================== -->
+<!-- THE STORY — QUIÉN SOY                                        -->
+<!-- ======================================================================== -->
+
+<table>
   <tr>
-    <td align="center" width="300">
-      <b>🛡️ Cybersecurity</b><br>
-      <sub>HTB CJCA candidate • AD chains • Web exploitation</sub>
+    <td valign="top" width="65%">
+
+<h2>🎯 Who I Am</h2>
+
+<p>
+<b>IB Diploma student in my final year</b>, on track to study <b>Computer Science</b> at university. But my real classroom has been the terminal — thousands of hours in cybersecurity labs, CTF competitions, and building production systems from scratch.
+</p>
+
+<p>
+<b>Cybersecurity is my expertise.</b> I eat, sleep, and breathe penetration testing, Active Directory exploitation, and ethical hacking. Every machine rooted, every network pivoted, every chain executed — that's where I've earned my stripes. I'm currently crushing the HTB CJCA certification and plotting my path to eCPPTv2.
+</p>
+
+<p>
+<b>I build in public.</b> <a href="#-featured-projects">IB Connection</a> — my EdTech platform serving 200+ IB students — was built <i>while I was studying IB myself</i>. It's my platform for my peers. Everything I learn, I ship.
+</p>
+
+<p>
+<b>Student by day. Hacker by night. Builder always.</b> — that's not a tagline, it's my life.
+</p>
+
+<br>
+
+<h3>📊 IB Diploma Snapshot</h3>
+<table>
+  <tr>
+    <td><b>📚 Programme:</b></td>
+    <td>IB Diploma — DP2 (Final Year)</td>
+  </tr>
+  <tr>
+    <td><b>🎯 Target:</b></td>
+    <td>Computer Science BSc</td>
+  </tr>
+  <tr>
+    <td><b>📈 GPA:</b></td>
+    <td>6.5 / 7.0</td>
+  </tr>
+  <tr>
+    <td><b>🧪 HL Subjects:</b></td>
+    <td>Computer Science • Mathematics AA • Physics</td>
+  </tr>
+  <tr>
+    <td><b>🌐 Languages:</b></td>
+    <td>English A HL • Spanish A HL • French B SL</td>
+  </tr>
+</table>
+
     </td>
-    <td align="center" width="300">
-      <b>💻 Full-Stack</b><br>
-      <sub>React • SvelteKit • Node • Rust • PostgreSQL • AWS</sub>
+    <td valign="top" width="35%">
+
+<h3>🧬 My Stack</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <h1>🛡️</h1>
+      <b>EXPERT</b><br>
+      <sub>Cybersecurity</sub>
     </td>
-    <td align="center" width="300">
-      <b>🎵 Music & Code</b><br>
-      <sub>Jazz piano • Generative music • Renoise tracker</sub>
+    <td align="center">
+      <h1>💻</h1>
+      <b>BUILDER</b><br>
+      <sub>Full-Stack</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h1>🎵</h1>
+      <b>CREATOR</b><br>
+      <sub>Music & Code</sub>
+    </td>
+    <td align="center">
+      <h1>🧠</h1>
+      <b>OPTIMIZER</b><br>
+      <sub>Learning Systems</sub>
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- CURRENT FOCUS -->
-<details open>
-  <summary><b>🚀 Currently Building</b></summary>
-  <br>
-  <blockquote>
-    <b>IB Connection</b> — EdTech platform for IB Diploma students<br>
-    <sub>→ React + TypeScript + GraphQL + PostgreSQL + AWS</sub>
-  </blockquote>
-  <img src="https://img.shields.io/badge/Learning-Rust%20%26%20Distributed%20Consensus-%23ff6b6b?style=flat-square" alt="Learning">
-  <img src="https://img.shields.io/badge/Reading-Designing%20Data-Intensive%20Applications-%2300d4aa?style=flat-square" alt="Reading">
-  <img src="https://img.shields.io/badge/Certification-CJCA%20%7C%20eCPPTv2-%23ffa657?style=flat-square" alt="Cert">
-</details>
+<h3>🚀 Current Orbit</h3>
+<blockquote>
+<b>Building:</b> IB Connection → scaling to production<br>
+<b>Hacking:</b> CJCA 56% → AD chains daily<br>
+<b>Learning:</b> Rust, distributed consensus<br>
+<b>Reading:</b> Designing Data-Intensive Applications<br>
+<b>Grinding:</b> IB final year → CS applications
+</blockquote>
+
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ---
 
-</div>
-
 <!-- ======================================================================== -->
-<!-- SECTION: FEATURED PROJECTS                                               -->
+<!-- RESULTS — MOMENTUM                                                       -->
 <!-- ======================================================================== -->
 
 <h2 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="32">
-    <img alt="Rocket" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="32">
-  </picture>
-  Featured Projects
+  📈 Results & Momentum
 </h2>
 
 <div align="center">
+  <sub><i>I don't just study cybersecurity — I live it. Here's the proof.</i></sub>
+</div>
 
-<!-- Project 1: IB Connection -->
+<br>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="14%">
+      <h1>42</h1>
+      <sub>HTB Machines<br>Rooted</sub>
+    </td>
+    <td align="center" width="14%">
+      <h1>15</h1>
+      <sub>CTF Challenges<br>Solved</sub>
+    </td>
+    <td align="center" width="14%">
+      <h1>18</h1>
+      <sub>Academy Modules<br>Completed</sub>
+    </td>
+    <td align="center" width="14%">
+      <h1>56%</h1>
+      <sub>CJCA Progress<br>→ Target 100%</sub>
+    </td>
+    <td align="center" width="14%">
+      <h1>1.2k</h1>
+      <sub>HTB Points<br>Rank: Hacker</sub>
+    </td>
+    <td align="center" width="14%">
+      <h1>200+</h1>
+      <sub>IB Connection<br>Active Users</sub>
+    </td>
+    <td align="center" width="14%">
+      <h1>500+</h1>
+      <sub>Atomic Notes<br>Second Brain</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Machine difficulty -->
+<img src="https://img.shields.io/badge/Easy-18-green?style=for-the-badge&labelColor=0d1117" alt="Easy">
+<img src="https://img.shields.io/badge/Medium-14-orange?style=for-the-badge&labelColor=0d1117" alt="Medium">
+<img src="https://img.shields.io/badge/Hard-8-red?style=for-the-badge&labelColor=0d1117" alt="Hard">
+<img src="https://img.shields.io/badge/Insane-2-purple?style=for-the-badge&labelColor=0d1117" alt="Insane">
+
+<br><br>
+
+<sub>🏴 <b>OS Breakdown:</b> Linux 24 · Windows 15 · BSD 3</sub>
+<br>
+<sub>🔬 <b>Challenge Types:</b> Forensics 4 · Web 6 · Crypto 3 · Reversing 2</sub>
+
+</div>
+
+<br>
+
+---
+
+<!-- ======================================================================== -->
+<!-- CERTIFICATION JOURNEY                                                       -->
+<!-- ======================================================================== -->
+
+<h2 align="center">
+  🎓 Certifications — The Path
+</h2>
+
+<div align="center">
+  <sub><i>From student to professional — every cert is a milestone. I'm in the arena.</i></sub>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/CJCA-In%20Progress-F59E0B?style=for-the-badge&logo=hackthebox&labelColor=0d1117" alt="CJCA"><br>
+        <img src="https://progress-bar.dev/56/?width=250&color=ff6b6b&suffix=%" alt="56%"><br>
+        <sub><b>Certified Junior Cybersecurity Analyst</b></sub><br>
+        <sub>Hack The Box • 18/32 modules</sub><br>
+        <sub>Target: Sep 2026</sub><br>
+        <br>
+        <sub>📖 Web, Network, AD fundamentals</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/eCPPTv2-Planned-6B7280?style=for-the-badge&labelColor=0d1117" alt="eCPPTv2"><br>
+        <img src="https://progress-bar.dev/0/?width=250&color=6B7280&suffix=%" alt="0%"><br>
+        <sub><b>Professional Penetration Testing</b></sub><br>
+        <sub>eLearnSecurity / INE</sub><br>
+        <sub>Target: Mar 2027</sub><br>
+        <br>
+        <sub>📖 Full-scope pentesting methodology</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/OSCP-Planned-6B7280?style=for-the-badge&labelColor=0d1117" alt="OSCP"><br>
+        <img src="https://progress-bar.dev/0/?width=250&color=6B7280&suffix=%" alt="0%"><br>
+        <sub><b>Offensive Security Certified Professional</b></sub><br>
+        <sub>Offensive Security</sub><br>
+        <sub>Target: 2028</sub><br>
+        <br>
+        <sub>📖 24h exam — the gold standard</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+---
+
+<!-- ======================================================================== -->
+<!-- FEATURED PROJECTS                                                         -->
+<!-- ======================================================================== -->
+
+<h2 align="center">
+  🚀 Featured Projects
+</h2>
+
+<div align="center">
+  <sub><i>Built while studying IB. Shipped to production. Used by real people.</i></sub>
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Project 1: IB Connection — the flagship -->
 <a href="https://github.com/Betokis/Ib-Connection-ProyectV1.0">
   <table>
     <tr>
@@ -82,23 +280,20 @@
       </td>
       <td valign="top" width="400">
         <h3>📚 IB Connection</h3>
-        <p><i>EdTech platform for IB Diploma students</i></p>
-        <p>Full-stack platform helping 200+ IB students manage coursework, deadlines, CAS tracking, and exam prep. Microservices architecture with GraphQL federation.</p>
-        <p align="left">
-          <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square" alt="React">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript">
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL">
-          <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square" alt="GraphQL">
-          <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS">
-        </p>
+        <p><i>EdTech platform built by an IB student, for IB students</i></p>
+        <p><b>🔑 The story:</b> I was drowning in IB coursework. So I built the solution. IB Connection serves <b>200+ students</b> at Liceo de Cervantes Barranquilla — coursework dashboards, CAS tracking, EE/IA timelines, smart calendars. Dogfooding at its finest: <b>I use this platform every day alongside my peers.</b></p>
+        <p><b>⚙️ Stack:</b> React • TypeScript • GraphQL • PostgreSQL • AWS (ECS + CloudFront)</p>
+        <p><b>📊 Metrics:</b> 200+ users · 99.9% uptime · &lt;200ms p95</p>
         <p>
           <a href="https://floret-reader-02117305.figma.site"><img src="https://img.shields.io/badge/Live%20Demo-00d4aa?style=for-the-badge&logo=figma&logoColor=white" alt="Demo"></a>
-          <a href="https://github.com/Betokis/Ib-Connection-ProyectV1.0"><img src="https://img.shields.io/badge/Source%20Code-21262d?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
+          <a href="https://github.com/Betokis/Ib-Connection-ProyectV1.0"><img src="https://img.shields.io/badge/Source-21262d?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
         </p>
       </td>
     </tr>
   </table>
 </a>
+
+<br>
 
 <!-- Project 2: My Life OS -->
 <a href="https://github.com/Betokis/My-life-OS">
@@ -112,22 +307,24 @@
       </td>
       <td valign="top" width="400">
         <h3>🧠 My Life OS</h3>
-        <p><i>Gamified, AI-coached life management system</i></p>
-        <p>Personal operating system combining PARA methodology, Zettelkasten knowledge management, habit tracking with streaks, goal decomposition, and AI-powered journal insights.</p>
-        <p align="left">
+        <p><i>Gamified, AI-coached life management — my second brain in production</i></p>
+        <p>PARA + Zettelkasten + habit streaks + AI journal insights. A personal operating system for intentional living. Local-first with encrypted sync. Built because I needed a system that could keep up with IB + cybersecurity + music.</p>
+        <p>
           <img src="https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white&style=flat-square" alt="SvelteKit">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TS">
           <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square" alt="Supabase">
           <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white&style=flat-square" alt="PWA">
         </p>
         <p>
-          <a href="https://my-life-os.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00d4aa?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"></a>
-          <a href="https://github.com/Betokis/My-life-OS"><img src="https://img.shields.io/badge/Source%20Code-21262d?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
+          <a href="https://my-life-os.vercel.app"><img src="https://img.shields.io/badge/Demo-00d4aa?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"></a>
+          <a href="https://github.com/Betokis/My-life-OS"><img src="https://img.shields.io/badge/Source-21262d?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
         </p>
       </td>
     </tr>
   </table>
 </a>
+
+<br>
 
 <!-- Project 3: HTB Second Brain -->
 <a href="https://github.com/Betokis/htb-second-brain">
@@ -135,27 +332,28 @@
     <tr>
       <td width="400">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://placehold.co/400x225/0d1117/ff6b6b?text=HTB+Second+Brain">
-          <img src="https://placehold.co/400x225/f6f8fa/cf222e?text=HTB+Second+Brain" width="400" alt="HTB Second Brain">
+          <source media="(prefers-color-scheme: dark)" srcset="https://placehold.co/400x225/0d1117/ff6b6b?text=HTB+2nd+Brain">
+          <img src="https://placehold.co/400x225/f6f8fa/cf222e?text=HTB+2nd+Brain" width="400" alt="HTB Second Brain">
         </picture>
       </td>
       <td valign="top" width="400">
         <h3>🧠 HTB Second Brain</h3>
-        <p><i>Bilingual cognitive system for CJCA certification</i></p>
-        <p>500+ atomic notes covering web exploitation, privilege escalation, Active Directory, cloud security. Zettelkasten + PARA + CODE methodology with spaced repetition.</p>
-        <p align="left">
+        <p><i>500+ atomic notes accelerating my CJCA journey</i></p>
+        <p>Bilingual (ES/EN) knowledge system for penetration testing. Every HTB machine, Academy module, and attack technique gets: attack path diagrams, command references, mitigation strategies, and spaced repetition hooks. Reduced my CJCA prep time by ~40%.</p>
+        <p>
           <img src="https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white&style=flat-square" alt="Obsidian">
-          <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat-square" alt="Markdown">
-          <img src="https://img.shields.io/badge/ES%2FEN-Bilingual-%2300d4aa?style=flat-square" alt="Bilingual">
+          <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat-square" alt="MD">
+          <img src="https://img.shields.io/badge/Dataview-Query-%233b82f6?style=flat-square" alt="Dataview">
         </p>
         <p>
-          <a href="https://github.com/Betokis/htb-second-brain"><img src="https://img.shields.io/badge/Source%20Code-21262d?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
-          <a href="https://betokis.dev/htb-second-brain"><img src="https://img.shields.io/badge/Case%20Study-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Case Study"></a>
+          <a href="https://github.com/Betokis/htb-second-brain"><img src="https://img.shields.io/badge/Source-21262d?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
         </p>
       </td>
     </tr>
   </table>
 </a>
+
+<br>
 
 <!-- Project 4: NexusOS -->
 <a href="https://github.com/Betokis/NexusOS">
@@ -169,17 +367,15 @@
       </td>
       <td valign="top" width="400">
         <h3>⚡ NexusOS</h3>
-        <p><i>Experimental distributed OS in Rust</i></p>
-        <p>Research prototype implementing Raft consensus, CRDT-based file sync, and WebAssembly runtime for edge functions. Capability-based security model.</p>
-        <p align="left">
+        <p><i>Distributed OS in Rust — my systems playground</i></p>
+        <p>Raft consensus · CRDT file sync · WASM edge runtime · Capability security. Not production-ready — this is where I push my understanding of distributed systems, systems programming, and low-level computing. Currently exploring conflict-free replicated data types.</p>
+        <p>
           <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square" alt="Rust">
-          <img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white&style=flat-square" alt="WASM">
+          <img src="https://img.shields.io/badge/WASM-654FF0?logo=webassembly&logoColor=white&style=flat-square" alt="WASM">
           <img src="https://img.shields.io/badge/Raft-Consensus-%23ff6b6b?style=flat-square" alt="Raft">
-          <img src="https://img.shields.io/badge/CRDT-Conflict%20Free-%2300d4aa?style=flat-square" alt="CRDT">
         </p>
         <p>
-          <a href="https://github.com/Betokis/NexusOS"><img src="https://img.shields.io/badge/Source%20Code-21262d?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
-          <a href="https://betokis.dev/nexusos-architecture"><img src="https://img.shields.io/badge/Architecture%20Deep%20Dive-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Architecture"></a>
+          <a href="https://github.com/Betokis/NexusOS"><img src="https://img.shields.io/badge/Source-21262d?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
         </p>
       </td>
     </tr>
@@ -188,11 +384,9 @@
 
 <br>
 
-<!-- SearchTheBox -->
-<p align="center">
+<p>
   <a href="https://github.com/Betokis/SearchTheBox-v1.0">
-    <b>🔍 SearchTheBox</b> — HTB machine search & writeup navigator (1,200+ downloads)
-    <img src="https://img.shields.io/github/stars/Betokis/SearchTheBox-v1.0?style=social" alt="Stars">
+    <b>🔍 SearchTheBox</b> — HTB machine search & writeup navigator (1,200+ downloads, 45⭐)
   </a>
 </p>
 
@@ -203,65 +397,111 @@
 ---
 
 <!-- ======================================================================== -->
-<!-- SECTION: SKILLS & EXPERTISE                                             -->
+<!-- SKILLS & EXPERTISE                                                        -->
 <!-- ======================================================================== -->
 
 <h2 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32">
-    <img alt="Bar Chart" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32">
-  </picture>
-  Skills & Expertise
+  🔬 Skills & Expertise
 </h2>
+
+<div align="center">
+  <sub><i>Cybersecurity is my core. Everything else amplifies it.</i></sub>
+  <br><br>
+  <a href="https://Betokis.github.io/Betokis/skills-chart" target="_blank">
+    <img src="https://img.shields.io/badge/📊%20Interactive%20Skills%20Radar-Explore%20Full%20Proficiency-00d4aa?style=for-the-badge" alt="Interactive Skills Radar">
+  </a>
+</div>
 
 <br>
 
-<!-- Interactive radar chart link -->
-<div align="center">
-  <a href="https://Betokis.github.io/Betokis/skills-chart" target="_blank">
-    <img src="https://img.shields.io/badge/🔬%20Interactive%20Skills%20Radar-Click%20to%20Explore-00d4aa?style=for-the-badge" alt="Interactive Skills Radar">
-  </a>
-  <br><br>
-</div>
-
-<!-- Skill categories -->
-<table align="center">
+<!-- Cybersecurity (EXPERT) — featured first -->
+<table>
   <tr>
-    <td width="25%" align="center" valign="top">
-      <h3>🛡️ Cybersecurity</h3>
-      <img src="https://skillicons.dev/icons?i=kali,linux,bash,python&theme=dark" alt="Cyber Tools"><br>
-      <br>
-      <img src="https://img.shields.io/badge/Pentest-85%25-%23ff6b6b?style=flat-square" alt="Pentest">
-      <img src="https://img.shields.io/badge/Network%20Sec-80%25-%23ff6b6b?style=flat-square" alt="NetworkSec"><br>
-      <img src="https://img.shields.io/badge/CTF%2FHTB-88%25-%23ff6b6b?style=flat-square" alt="CTF">
-      <img src="https://img.shields.io/badge/Malware%20Analysis-65%25-%23ff6b6b?style=flat-square" alt="Malware">
+    <td width="100%" colspan="4" bgcolor="#ff6b6b15" style="border: 1px solid #ff6b6b40; border-radius: 8px; padding: 12px;">
+      <h3>🛡️ Cybersecurity — EXPERT</h3>
+      <sub><i>My craft. Thousands of hours. Real results.</i></sub>
     </td>
-    <td width="25%" align="center" valign="top">
-      <h3>💻 Full-Stack</h3>
-      <img src="https://skillicons.dev/icons?i=react,svelte,ts,nodejs&theme=dark" alt="Dev Tools"><br>
-      <br>
-      <img src="https://img.shields.io/badge/Python-92%25-%2300d4aa?style=flat-square" alt="Python">
-      <img src="https://img.shields.io/badge/JS%2FTS-88%25-%2300d4aa?style=flat-square" alt="JS/TS"><br>
-      <img src="https://img.shields.io/badge/React%2FSvelte-85%25-%2300d4aa?style=flat-square" alt="React/Svelte">
-      <img src="https://img.shields.io/badge/PostgreSQL-80%25-%2300d4aa?style=flat-square" alt="PostgreSQL">
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <b>Penetration Testing</b><br>
+      <img src="https://progress-bar.dev/94/?width=150&color=ff6b6b&suffix=%" alt="94%"><br>
+      <sub>AD chains · Web · Network</sub>
     </td>
-    <td width="25%" align="center" valign="top">
-      <h3>🎵 Music</h3>
-      <img src="https://skillicons.dev/icons?i=rust,wasm,js&theme=dark" alt="Music Tech"><br>
-      <br>
-      <img src="https://img.shields.io/badge/Piano%2FTheory-82%25-%23a855f7?style=flat-square" alt="Piano">
-      <img src="https://img.shields.io/badge/DAW%20Prod-85%25-%23a855f7?style=flat-square" alt="DAW"><br>
-      <img src="https://img.shields.io/badge/Generative-70%25-%23a855f7?style=flat-square" alt="Generative">
-      <img src="https://img.shields.io/badge/Sound%20Design-75%25-%23a855f7?style=flat-square" alt="Sound Design">
+    <td align="center" width="25%">
+      <b>Kali Linux</b><br>
+      <img src="https://progress-bar.dev/96/?width=150&color=ff6b6b&suffix=%" alt="96%"><br>
+      <sub>Custom tooling · Automation</sub>
     </td>
-    <td width="25%" align="center" valign="top">
-      <h3>🧠 Knowledge</h3>
-      <img src="https://skillicons.dev/icons?i=obsidian,git,md&theme=dark" alt="Knowledge Tools"><br>
+    <td align="center" width="25%">
+      <b>CTF / HTB</b><br>
+      <img src="https://progress-bar.dev/93/?width=150&color=ff6b6b&suffix=%" alt="93%"><br>
+      <sub>42 machines · 15 challenges</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Active Directory</b><br>
+      <img src="https://progress-bar.dev/88/?width=150&color=ff6b6b&suffix=%" alt="88%"><br>
+      <sub>BloodHound · Kerberos · ACL abuse</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Web Exploitation</b><br>
+      <img src="https://progress-bar.dev/91/?width=150&color=ff6b6b&suffix=%" alt="91%"><br>
+      <sub>SQLi → RCE → privesc</sub>
+    </td>
+    <td align="center">
+      <b>Network Security</b><br>
+      <img src="https://progress-bar.dev/90/?width=150&color=ff6b6b&suffix=%" alt="90%"><br>
+      <sub>Pivoting · Firewall evasion</sub>
+    </td>
+    <td align="center">
+      <b>OSINT</b><br>
+      <img src="https://progress-bar.dev/82/?width=150&color=ff6b6b&suffix=%" alt="82%"><br>
+      <sub>Cross-domain investigation</sub>
+    </td>
+    <td align="center">
+      <b>Malware Analysis</b><br>
+      <img src="https://progress-bar.dev/78/?width=150&color=ff6b6b&suffix=%" alt="78%"><br>
+      <sub>Static + dynamic · Sandbox</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Other skills -->
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>💻 Full-Stack — BUILDER</h3>
+      <img src="https://skillicons.dev/icons?i=python,ts,react,svelte,nodejs,postgresql,graphql,docker,aws&theme=dark&perline=3" alt="Dev Tools"><br>
+      <img src="https://progress-bar.dev/90/?width=100&color=00d4aa&suffix=%20Py" alt="Python">
+      <img src="https://progress-bar.dev/85/?width=100&color=00d4aa&suffix=%20TS" alt="TS">
+      <img src="https://progress-bar.dev/82/?width=100&color=00d4aa&suffix=%20React" alt="React"><br>
+      <img src="https://progress-bar.dev/80/?width=100&color=00d4aa&suffix=%20Node" alt="Node">
+      <img src="https://progress-bar.dev/78/?width=100&color=00d4aa&suffix=%20PG" alt="PG">
+      <img src="https://progress-bar.dev/75/?width=100&color=00d4aa&suffix=%20AWS" alt="AWS">
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🎵 Music — CREATOR</h3>
       <br>
-      <img src="https://img.shields.io/badge/Zettelkasten-90%25-%233b82f6?style=flat-square" alt="Zettelkasten">
-      <img src="https://img.shields.io/badge/PARA-85%25-%233b82f6?style=flat-square" alt="PARA"><br>
-      <img src="https://img.shields.io/badge/Dataview-80%25-%233b82f6?style=flat-square" alt="Dataview">
-      <img src="https://img.shields.io/badge/Spaced%20Rep-75%25-%233b82f6?style=flat-square" alt="Spaced Rep">
+      <img src="https://progress-bar.dev/85/?width=100&color=a855f7&suffix=%20DAW" alt="DAW">
+      <img src="https://progress-bar.dev/82/?width=100&color=a855f7&suffix=%20Piano" alt="Piano"><br>
+      <img src="https://progress-bar.dev/75/?width=100&color=a855f7&suffix=%20Sound" alt="Sound">
+      <img src="https://progress-bar.dev/72/?width=100&color=a855f7&suffix=%20Gen" alt="Gen"><br>
+      <br>
+      <sub>Renoise tracker · Jazz piano · Generative breakbeats</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🧠 Knowledge — OPTIMIZER</h3>
+      <br>
+      <img src="https://progress-bar.dev/90/?width=100&color=3b82f6&suffix=%20ZK" alt="ZK">
+      <img src="https://progress-bar.dev/85/?width=100&color=3b82f6&suffix=%20PARA" alt="PARA"><br>
+      <img src="https://progress-bar.dev/82/?width=100&color=3b82f6&suffix=%20DV" alt="DV">
+      <img src="https://progress-bar.dev/78/?width=100&color=3b82f6&suffix=%20SR" alt="SR"><br>
+      <br>
+      <sub>Zettelkasten · Obsidian · Spaced Repetition</sub>
     </td>
   </tr>
 </table>
@@ -269,8 +509,6 @@
 <br>
 
 <div align="center">
-  <sup><i>Proficiency bars reflect current confidence. Full interactive radar at the link above.</i></sup>
-  <br><br>
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,svelte,nodejs,rust,go,postgresql,graphql,docker,aws,kali,linux,bash,cpp,git,obsidian,wasm,nextjs&theme=dark&perline=10" alt="Tech Stack">
 </div>
 
@@ -279,178 +517,90 @@
 ---
 
 <!-- ======================================================================== -->
-<!-- SECTION: CYBERSECURITY FOCUS                                            -->
+<!-- LEARNING IN PUBLIC — BLOG                                                -->
 <!-- ======================================================================== -->
 
 <h2 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="32">
-    <img alt="Shield" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="32">
-  </picture>
-  Cybersecurity Focus
+  📖 Learning in Public
 </h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <h1>42</h1>
-        <sub>HTB Machines</sub>
-      </td>
-      <td align="center" width="200">
-        <h1>15</h1>
-        <sub>Challenges Solved</sub>
-      </td>
-      <td align="center" width="200">
-        <h1>18</h1>
-        <sub>Academy Modules</sub>
-      </td>
-      <td align="center" width="200">
-        <h1>1.2k</h1>
-        <sub>HTB Points</sub>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- Machine difficulty breakdown -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Easy-18-00d4aa?style=for-the-badge&labelColor=0d1117" alt="Easy">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Medium-14-ffa657?style=for-the-badge&labelColor=0d1117" alt="Medium">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Hard-8-ff6b6b?style=for-the-badge&labelColor=0d1117" alt="Hard">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Insane-2-a855f7?style=for-the-badge&labelColor=0d1117" alt="Insane">
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- Certification timeline -->
-  <h3>📜 Certification Journey</h3>
-
-  <table>
-    <tr>
-      <td align="center" width="250">
-        <img src="https://img.shields.io/badge/CJCA-In%20Progress-orange?style=for-the-badge&logo=hackthebox" alt="CJCA"><br>
-        <sub>Hack The Box • 18/32 modules</sub><br>
-        <progress value="56" max="100" style="width: 200px; height: 8px; border-radius: 4px; background: #21262d;"></progress>
-        <br><sub>56% complete • Target: Sep 2026</sub>
-      </td>
-      <td align="center" width="250">
-        <img src="https://img.shields.io/badge/eCPPTv2-Planned-lightgrey?style=for-the-badge" alt="eCPPTv2"><br>
-        <sub>eLearnSecurity / INE</sub><br>
-        <progress value="0" max="100" style="width: 200px; height: 8px; border-radius: 4px; background: #21262d;"></progress>
-        <br><sub>Planned • Target: Mar 2027</sub>
-      </td>
-      <td align="center" width="250">
-        <img src="https://img.shields.io/badge/Pentest%2B-Planned-lightgrey?style=for-the-badge&logo=comptia" alt="Pentest+"><br>
-        <sub>CompTIA</sub><br>
-        <progress value="0" max="100" style="width: 200px; height: 8px; border-radius: 4px; background: #21262d;"></progress>
-        <br><sub>Planned • Target: Jun 2027</sub>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-  <sup>🏴 <b>Rank:</b> Hacker · <b>OS:</b> Linux 24 · Windows 15 · BSD 3</sup>
+  <sub><i>I document everything. Here's what I've been writing.</i></sub>
 </div>
 
 <br>
-
----
-
-<!-- ======================================================================== -->
-<!-- SECTION: LEARNING IN PUBLIC / BLOG                                      -->
-<!-- ======================================================================== -->
-
-<h2 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="32">
-    <img alt="Open Book" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="32">
-  </picture>
-  Learning in Public
-</h2>
 
 <div align="center">
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>📝 Latest Writing</h3>
 
-      <details open>
-        <summary><b>Building a Second Brain for Cybersecurity</b> ⏱ 12 min</summary>
-        <p>How I built an Obsidian-based cognitive system that reduced CJCA prep time by 40%. Zettelkasten + PARA + CODE for penetration testing knowledge.</p>
-        <a href="https://betokis.dev/blog/second-brain-cybersecurity"><img src="https://img.shields.io/badge/Read%20More-00d4aa?style=flat-square" alt="Read"></a>
-        <br><sub>🛡️ cybersecurity · knowledge-management · obsidian · May 20, 2026</sub>
-      </details>
+<details open>
+<summary><b>Building a Second Brain for Cybersecurity</b> ⏱ 12 min</summary>
+How I built an Obsidian-based cognitive system with Zettelkasten + PARA + CODE that reduced my CJCA prep time by 40%.
+<br>
+<a href="https://betokis.dev/blog/second-brain-cybersecurity"><img src="https://img.shields.io/badge/Read-00d4aa?style=flat-square" alt="Read"></a>
+<sub>🛡️ cybersecurity · knowledge-management · May 2026</sub>
+</details>
 
-      <br>
+<br>
 
-      <details>
-        <summary><b>IB Connection — Lessons from Shipping an EdTech MVP</b> ⏱ 15 min</summary>
-        <p>Architecture decisions, deployment lessons, and product insights from building a full-stack platform for 200+ IB students.</p>
-        <a href="https://betokis.dev/blog/ib-connection-ship"><img src="https://img.shields.io/badge/Read%20More-00d4aa?style=flat-square" alt="Read"></a>
-        <br><sub>💻 edtech · fullstack · postgresql · Apr 15, 2026</sub>
-      </details>
+<details>
+<summary><b>IB Connection — Shipping an EdTech MVP While Studying IB</b> ⏱ 15 min</summary>
+Building a full-stack platform for 200+ students while balancing IB coursework. Architecture, deployment lessons, and the dogfooding mindset.
+<br>
+<a href="https://betokis.dev/blog/ib-connection-ship"><img src="https://img.shields.io/badge/Read-00d4aa?style=flat-square" alt="Read"></a>
+<sub>💻 edtech · fullstack · Apr 2026</sub>
+</details>
 
-      <br>
+<br>
 
-      <details>
-        <summary><b>NexusOS: Building a Distributed OS in Rust</b> ⏱ 20 min</summary>
-        <p>Implementing Raft consensus, CRDT file sync, and WASM runtime. What I learned about distributed systems building from scratch.</p>
-        <a href="https://betokis.dev/blog/nexusos-distributed-os"><img src="https://img.shields.io/badge/Read%20More-00d4aa?style=flat-square" alt="Read"></a>
-        <br><sub>⚡ rust · distributed-systems · wasm · Mar 1, 2026</sub>
-      </details>
-
-      <br>
-
-      <details>
-        <summary><b>Generative Breakbeats with Pattrns + Lua</b> ⏱ 8 min</summary>
-        <p>Algorithmic drum patterns in Renoise using Lua. Euclidean rhythms, probabilistic fills, and evolving textures.</p>
-        <a href="https://betokis.dev/blog/generative-breakbeats"><img src="https://img.shields.io/badge/Read%20More-00d4aa?style=flat-square" alt="Read"></a>
-        <br><sub>🎵 music · generative · renoise · Feb 10, 2026</sub>
-      </details>
-
-      <br>
-
-      <details>
-        <summary><b>Active Directory Attack Chains: A Methodological Approach</b> ⏱ 18 min</summary>
-        <p>Systematic AD pentesting from enumeration to domain dominance. Real HTB machine references throughout.</p>
-        <a href="https://betokis.dev/blog/ad-attack-chains"><img src="https://img.shields.io/badge/Read%20More-00d4aa?style=flat-square" alt="Read"></a>
-        <br><sub>🛡️ active-directory · pentesting · Jan 5, 2026</sub>
-      </details>
+<details>
+<summary><b>Active Directory Attack Chains: A Methodological Approach</b> ⏱ 18 min</summary>
+Systematic AD penetration testing from initial recon to domain dominance. Real HTB machine references throughout.
+<br>
+<a href="https://betokis.dev/blog/ad-attack-chains"><img src="https://img.shields.io/badge/Read-00d4aa?style=flat-square" alt="Read"></a>
+<sub>🛡️ active-directory · pentesting · Jan 2026</sub>
+</details>
 
     </td>
     <td valign="top" width="50%">
-      <h3>📖 Currently Reading</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Book-Designing%20Data%2DIntensive%20Applications-%2300d4aa?style=for-the-badge" alt="Book">
-        <br>
-        <sub>Martin Kleppmann — Distributed systems, data storage, consensus algorithms</sub>
-      </p>
-      <br>
-      <h3>🎯 Next Up</h3>
-      <ul align="left">
-        <li>📕 <b>Sandworm</b> — Andy Greenberg (cyberwarfare)</li>
-        <li>📕 <b>The Art of Invisibility</b> — Kevin Mitnick</li>
-        <li>📕 <b>Building Microservices</b> — Sam Newman</li>
-      </ul>
-      <br>
-      <h3>🌐 Find My Writing</h3>
-      <p>
-        <a href="https://betokis.dev/blog"><img src="https://img.shields.io/badge/Blog-00d4aa?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"></a>
-        <a href="https://betokis.dev"><img src="https://img.shields.io/badge/Website-21262d?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"></a>
-      </p>
+
+<details>
+<summary><b>NexusOS: Building a Distributed OS in Rust</b> ⏱ 20 min</summary>
+Implementing Raft consensus, CRDT file sync, and WASM runtime. What I learned about distributed systems building from scratch.
+<br>
+<a href="https://betokis.dev/blog/nexusos-distributed-os"><img src="https://img.shields.io/badge/Read-00d4aa?style=flat-square" alt="Read"></a>
+<sub>⚡ rust · distributed-systems · Mar 2026</sub>
+</details>
+
+<br>
+
+<details>
+<summary><b>Generative Breakbeats with Pattrns + Lua in Renoise</b> ⏱ 8 min</summary>
+Algorithmic drum patterns using Lua scripting. Euclidean rhythms, probabilistic fills, and evolving textures in the tracker environment.
+<br>
+<a href="https://betokis.dev/blog/generative-breakbeats"><img src="https://img.shields.io/badge/Read-00d4aa?style=flat-square" alt="Read"></a>
+<sub>🎵 music · generative · renoise · Feb 2026</sub>
+</details>
+
+<br>
+
+<h3>📚 Currently Reading</h3>
+<p>
+  <img src="https://img.shields.io/badge/-Designing%20Data%2DIntensive%20Applications-00d4aa?style=flat-square" alt="DDIA">
+  <br>
+  <sub>Martin Kleppmann — distributed systems, storage, consensus</sub>
+</p>
+
+<h3>🎯 On The List</h3>
+<ul align="left">
+  <li>📕 <b>Sandworm</b> — Andy Greenberg (cyberwarfare)</li>
+  <li>📕 <b>The Art of Invisibility</b> — Kevin Mitnick</li>
+  <li>📕 <b>Building Microservices</b> — Sam Newman</li>
+</ul>
+
     </td>
   </tr>
 </table>
@@ -462,16 +612,18 @@
 ---
 
 <!-- ======================================================================== -->
-<!-- SECTION: MUSIC & CREATIVE                                                -->
+<!-- MUSIC & CREATIVE                                                          -->
 <!-- ======================================================================== -->
 
 <h2 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Musical%20Notes.png" width="32">
-    <img alt="Musical Notes" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Musical%20Notes.png" width="32">
-  </picture>
-  Music & Creative Coding
+  🎵 Music & Creative Coding
 </h2>
+
+<div align="center">
+  <sub><i>"Music is the mathematics you can hear. Code is the music you can read."</i></sub>
+</div>
+
+<br>
 
 <div align="center">
   <table>
@@ -481,31 +633,24 @@
         <a href="https://open.spotify.com/user/spotify_user_id" target="_blank">
           <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify_user_id&theme=novatorem&cover_image=true&background_color=191d21" alt="Spotify" width="350">
         </a>
-        <br><br>
-        <h3>🎛️ Tools of the Trade</h3>
+      </td>
+      <td valign="top" width="30%">
+        <h3>🤖 Generative Experiments</h3>
+        <p><b>Renoise tracker</b> + <b>Lua</b> scripts for algorithmic breakbeats and evolving textures.</p>
+        <p>Blending jazz harmony (my first love) with generative algorithms.</p>
         <p>
-          <img src="https://img.shields.io/badge/Renoise-Black?style=flat-square&logo=renoise&logoColor=white" alt="Renoise">
-          <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua">
-          <img src="https://img.shields.io/badge/Pattrns-Algorithmic-%23a855f7?style=flat-square" alt="Pattrns">
-          <img src="https://img.shields.io/badge/Vital-Audio-%23ff6b6b?style=flat-square" alt="Vital">
+          <img src="https://img.shields.io/badge/Renoise-Tracker-%23000?style=flat-square" alt="Renoise">
+          <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&style=flat-square" alt="Lua">
+          <img src="https://img.shields.io/badge/Strudel-Live%20Code-%2300d4aa?style=flat-square" alt="Strudel">
         </p>
       </td>
       <td valign="top" width="30%">
-        <h3>🤖 Generative Music</h3>
-        <p>Combining code and composition to create <b>algorithmic breakbeats</b>, <b>evolving textures</b>, and <b>generative jazz</b>.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Strudel-Browser%20Live%20Code-%2300d4aa?style=flat-square" alt="Strudel">
-          <img src="https://img.shields.io/badge/SuperCollider-Synth%20Language-%23a855f7?style=flat-square" alt="SuperCollider">
-        </p>
-        <p><sub><i>"Music is the mathematics you can hear. Code is the music you can read."</i></sub></p>
-      </td>
-      <td valign="top" width="30%">
-        <h3>🎯 Upcoming Experiments</h3>
+        <h3>🎧 Upcoming</h3>
         <ul align="left">
           <li>🐍 Python → MIDI generative jazz</li>
           <li>🦀 Rust → real-time DSP plugin</li>
-          <li>🌐 Browser-based live coding with Strudel</li>
-          <li>📼 Granular synthesis sampler in Renoise</li>
+          <li>🌐 Browser live coding with Strudel</li>
+          <li>📼 Granular synthesis in Renoise</li>
         </ul>
       </td>
     </tr>
@@ -517,16 +662,16 @@
 ---
 
 <!-- ======================================================================== -->
-<!-- SECTION: GITHUB ANALYTICS                                                -->
+<!-- GITHUB ANALYTICS                                                          -->
 <!-- ======================================================================== -->
 
 <h2 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="32">
-    <img alt="Chart" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="32">
-  </picture>
-  GitHub Analytics
+  📊 GitHub Analytics
 </h2>
+
+<div align="center">
+  <sub><i>Evidence of the grind. Every contribution counts.</i></sub>
+</div>
 
 <br>
 
@@ -540,7 +685,7 @@
 
 <br><br>
 
-<!-- Stats row -->
+<!-- Stats -->
 <table>
   <tr>
     <td>
@@ -566,7 +711,7 @@
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Betokis&layout=compact&hide_title=true&theme=dark&bg_color=0d1117&border_color=30363d&text_color=8b949e&title_color=00d4aa">
-        <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=Betokis&layout=compact&hide_title=true&theme=default&bg_color=ffffff&border_color=d0d7de&text_color=656d76&title_color=00897b" alt="WakaTime Stats">
+        <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=Betokis&layout=compact&hide_title=true&theme=default&bg_color=ffffff&border_color=d0d7de&text_color=656d76&title_color=00897b" alt="WakaTime">
       </picture>
     </td>
     <td>
@@ -580,7 +725,7 @@
 
 <br>
 
-<!-- Activity graph -->
+<!-- Activity Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Betokis&theme=react-dark&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Betokis&theme=default&bg_color=ffffff&color=00897b&line=00897b&point=000000&area=true&hide_border=true" alt="Activity Graph">
@@ -589,11 +734,9 @@
 <br>
 
 <!-- Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Betokis&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4" alt="Trophies">
-  </a>
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Betokis&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4" alt="Trophies">
+</a>
 
 </div>
 
@@ -602,18 +745,20 @@
 ---
 
 <!-- ======================================================================== -->
-<!-- SECTION: CONNECT & FOOTER                                                -->
+<!-- CONNECT & FOOTER                                                          -->
 <!-- ======================================================================== -->
 
 <h2 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="32">
-    <img alt="Link" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="32">
-  </picture>
-  Connect with Me
+  📬 Connect with Me
 </h2>
 
 <div align="center">
+  <p>
+    <sub><i>Student by day. Hacker by night. Builder always.</i></sub>
+  </p>
+
+  <br>
+
   <table>
     <tr>
       <td align="center">
@@ -638,12 +783,12 @@
       </td>
       <td align="center">
         <a href="https://app.hackthebox.com/profile/1441214">
-          <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB">
+          <img src="https://img.shields.io/badge/HTB-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB">
         </a>
       </td>
       <td align="center">
         <a href="https://tryhackme.com/p/Betokis">
-          <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM">
+          <img src="https://img.shields.io/badge/THM-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM">
         </a>
       </td>
     </tr>
@@ -669,7 +814,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://twitter.com/betokis">
+        <a href="https://x.com/betokis">
           <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
         </a>
       </td>
@@ -678,32 +823,28 @@
 
   <br>
 
-  <!-- Visitor counter -->
   <a href="https://github.com/Betokis">
-    <img src="https://komarev.com/ghpvc/?username=Betokis&label=PROFILE%20VIEWS&color=00d4aa&style=flat-square" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=Betokis&label=PROFILE%20VIEWS&color=00d4aa&style=flat-square" alt="Views">
   </a>
 
   <br><br>
 
-  <!-- Support -->
   <a href="https://www.buymeacoffee.com/betokis">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Coffee">
   </a>
 
   <br><br>
 
-  <!-- Footer -->
   <sub>
     <b>Last updated:</b> <a href="https://github.com/Betokis/Betokis/commits/main">June 2026</a>
     ·
-    <b>Built with</b> 💻 + 🎵 + ☕
+    <b>Built with</b> ☕ + 🛡️ + 🎵
     ·
-    <sub><i>"Code is poetry. Security is art. Music is both."</i></sub>
+    <i>"The best way to learn is to build. The best way to secure is to understand."</i>
   </sub>
 
   <br><br>
 
-  <!-- Snake animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Betokis/Betokis/output/github-contribution-grid-snake-dark.svg">
     <img alt="Snake" src="https://raw.githubusercontent.com/Betokis/Betokis/output/github-contribution-grid-snake.svg" width="800">

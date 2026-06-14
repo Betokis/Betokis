@@ -4,50 +4,60 @@
       "name": "Cybersecurity",
       "icon": "🛡️",
       "color": "#ff6b6b",
+      "label": "EXPERT",
+      "description": "Core expertise — thousands of hours in labs, CTFs, and real-world scenarios",
       "skills": [
-        { "name": "Penetration Testing", "proficiency": 85, "superpower": "Web exploitation & AD chains", "icon": "🔍" },
-        { "name": "Kali Linux", "proficiency": 90, "superpower": "Tool scripting & automation", "icon": "🐉" },
-        { "name": "Network Security", "proficiency": 80, "superpower": "Protocol fuzzing & firewalking", "icon": "🌐" },
-        { "name": "CTF / HTB", "proficiency": 88, "superpower": "Read the source, always", "icon": "🏴" },
-        { "name": "Malware Analysis", "proficiency": 65, "superpower": "Static + dynamic in sandbox", "icon": "🔬" },
-        { "name": "OSINT", "proficiency": 72, "superpower": "Connect the invisible dots", "icon": "🕵️" }
+        { "name": "Penetration Testing", "proficiency": 94, "superpower": "Multi-chain AD exploitation from recon to DA", "icon": "🔍" },
+        { "name": "Kali Linux", "proficiency": 96, "superpower": "Custom tooling, automation, environment mastery", "icon": "🐉" },
+        { "name": "Network Security", "proficiency": 90, "superpower": "Protocol analysis, pivoting, firewall evasion", "icon": "🌐" },
+        { "name": "CTF / HTB", "proficiency": 93, "superpower": "Read the source. Think lateral. Win.", "icon": "🏴" },
+        { "name": "Active Directory", "proficiency": 88, "superpower": "BloodHound + custom queries → full domain compromise", "icon": "🏢" },
+        { "name": "Web Exploitation", "proficiency": 91, "superpower": "SQLi → RCE → privesc methodology", "icon": "🌍" },
+        { "name": "Malware Analysis", "proficiency": 78, "superpower": "Static + dynamic in sandbox, YARA rules", "icon": "🔬" },
+        { "name": "OSINT", "proficiency": 82, "superpower": "Connect dots across domains, social, technical", "icon": "🕵️" }
       ]
     },
     {
       "name": "Full-Stack Development",
       "icon": "💻",
       "color": "#00d4aa",
+      "label": "BUILDER",
+      "description": "Building production systems — self-taught through real projects",
       "skills": [
-        { "name": "Python", "proficiency": 92, "superpower": "Fast prototypes, cleaner code", "icon": "🐍" },
-        { "name": "JavaScript / TypeScript", "proficiency": 88, "superpower": "Type-safe everything", "icon": "📜" },
-        { "name": "React / SvelteKit", "proficiency": 85, "superpower": "SSR + hydration mastery", "icon": "⚛️" },
-        { "name": "Node.js", "proficiency": 82, "superpower": "Streams, clusters, microservices", "icon": "🟢" },
-        { "name": "PostgreSQL", "proficiency": 80, "superpower": "Window functions & query tuning", "icon": "🐘" },
-        { "name": "GraphQL", "proficiency": 75, "superpower": "Schema-first design", "icon": "◈" },
-        { "name": "Rust", "proficiency": 60, "superpower": "Zero-cost abstractions learner", "icon": "🦀" },
-        { "name": "Docker / AWS", "proficiency": 78, "superpower": "Docker compose to ECS", "icon": "🐳" }
+        { "name": "Python", "proficiency": 90, "superpower": "Rapid prototyping → production APIs", "icon": "🐍" },
+        { "name": "JavaScript / TypeScript", "proficiency": 85, "superpower": "Type-safe full-stack applications", "icon": "📜" },
+        { "name": "React / SvelteKit", "proficiency": 82, "superpower": "SSR, hydration, state management", "icon": "⚛️" },
+        { "name": "Node.js", "proficiency": 80, "superpower": "REST → GraphQL migrations, microservices", "icon": "🟢" },
+        { "name": "PostgreSQL", "proficiency": 78, "superpower": "Schema design, window functions, perf tuning", "icon": "🐘" },
+        { "name": "GraphQL", "proficiency": 72, "superpower": "Schema-first with federation patterns", "icon": "◈" },
+        { "name": "Rust", "proficiency": 55, "superpower": "Learning systems programming through projects", "icon": "🦀" },
+        { "name": "Docker / AWS", "proficiency": 75, "superpower": "Containerised deployment, ECS, CloudFront", "icon": "🐳" }
       ]
     },
     {
       "name": "Music Production",
       "icon": "🎵",
       "color": "#a855f7",
+      "label": "CREATOR",
+      "description": "Creative outlet — jazz piano meets algorithmic composition",
       "skills": [
-        { "name": "Piano / Theory", "proficiency": 82, "superpower": "Jazz harmony & modal interchange", "icon": "🎹" },
-        { "name": "DAW Production", "proficiency": 85, "superpower": "Renoise tracking + VST orchestration", "icon": "🎛️" },
-        { "name": "Generative Music", "proficiency": 70, "superpower": "Lua scripts for algorithmic composition", "icon": "🤖" },
-        { "name": "Sound Design", "proficiency": 75, "superpower": "Subtractive + FM + granular", "icon": "🔊" }
+        { "name": "Piano / Jazz Theory", "proficiency": 82, "superpower": "Modal interchange, voicings, improvisation", "icon": "🎹" },
+        { "name": "DAW Production", "proficiency": 85, "superpower": "Renoise tracker + VST orchestration", "icon": "🎛️" },
+        { "name": "Generative Music", "proficiency": 72, "superpower": "Lua scripts for algorithmic breakbeats", "icon": "🤖" },
+        { "name": "Sound Design", "proficiency": 75, "superpower": "Subtractive → FM → granular synthesis", "icon": "🔊" }
       ]
     },
     {
       "name": "Knowledge Systems",
       "icon": "🧠",
       "color": "#3b82f6",
+      "label": "OPTIMIZER",
+      "description": "Meta-learning — systems for accelerated skill acquisition",
       "skills": [
-        { "name": "Zettelkasten", "proficiency": 90, "superpower": "Atomic notes + bidirectional links", "icon": "🗂️" },
-        { "name": "PARA Method", "proficiency": 85, "superpower": "Folders as actions, tags as context", "icon": "📋" },
-        { "name": "Obsidian Dataview", "proficiency": 80, "superpower": "SQL for your notes", "icon": "📊" },
-        { "name": "Spaced Repetition", "proficiency": 75, "superpower": "FSRS algorithm optimisation", "icon": "🔄" }
+        { "name": "Zettelkasten", "proficiency": 90, "superpower": "500+ atomic notes with bidirectional links", "icon": "🗂️" },
+        { "name": "PARA Method", "proficiency": 85, "superpower": "Projects as outcomes, areas as standards", "icon": "📋" },
+        { "name": "Obsidian Dataview", "proficiency": 82, "superpower": "SQL-for-notes, dashboards, tracking", "icon": "📊" },
+        { "name": "Spaced Repetition", "proficiency": 78, "superpower": "FSRS algorithm for CJCA retention", "icon": "🔄" }
       ]
     }
   ]

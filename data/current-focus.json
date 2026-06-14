@@ -1,10 +1,22 @@
 {
-  "focus": "Building IB Connection into a scalable EdTech platform",
+  "identity": {
+    "name": "Alberto Betokis",
+    "role": "IB Diploma Student → Future Computer Science Major",
+    "expertise": "Cybersecurity",
+    "passion": "Building production systems. Breaking them ethically. Making music."
+  },
+  "focus": "Balancing IB Diploma with cybersecurity research, building IB Connection, and preparing CS university applications",
   "emoji": "🚀",
   "tech": ["React", "TypeScript", "PostgreSQL", "GraphQL", "AWS"],
-  "learning": "Advanced Rust systems programming & distributed consensus (Raft)",
+  "learning": "Advanced AD exploitation chains, Rust systems programming, distributed consensus (Raft)",
   "reading": "Designing Data-Intensive Applications — Kleppmann",
-  "nextCert": "HTB CJCA / eCPPTv2",
-  "mood": "Deep focus mode — architecting, coding, breaking things ethically",
-  "updated": "2026-06-13"
+  "nextCert": "CJCA (56% → progressing fast) → eCPPTv2",
+  "mood": "IB grind + deep work on cybersecurity research daily",
+  "updated": "2026-06-13",
+  "milestones": {
+    "ibYear": "DP2 (Final Year)",
+    "subjects": ["Computer Science HL", "Mathematics AA HL", "Physics HL", "English A HL", "Spanish A HL", "French B SL"],
+    "targetUniversity": "Computer Science BSc",
+    "currentGpa": "6.5/7.0"
+  }
 }
