@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Building a Second Brain for Cybersecurity: My CJCA Prep System",
+    "url": "https://betokis.dev/blog/second-brain-cybersecurity",
+    "date": "2026-05-20",
+    "summary": "How I built an Obsidian-based cognitive system with Zettelkasten + PARA + CODE that reduced my CJCA prep time by 40%.",
+    "tags": ["cybersecurity", "knowledge-management", "obsidian", "htb"],
+    "minutes": 12
+  },
+  {
+    "title": "IB Connection — Lessons from Shipping an EdTech MVP",
+    "url": "https://betokis.dev/blog/ib-connection-ship",
+    "date": "2026-04-15",
+    "summary": "Architecture decisions, deployment lessons, and product insights from building a full-stack platform for IB students.",
+    "tags": ["edtech", "fullstack", "postgresql", "graphql", "aws"],
+    "minutes": 15
+  },
+  {
+    "title": "NexusOS: Building a Distributed OS in Rust for Fun (and Learning)",
+    "url": "https://betokis.dev/blog/nexusos-distributed-os",
+    "date": "2026-03-01",
+    "summary": "Implementing Raft consensus, CRDT file synchronization, and WASM runtime in Rust. What I learned about distributed systems.",
+    "tags": ["rust", "distributed-systems", "wasm", "raft", "crdt"],
+    "minutes": 20
+  },
+  {
+    "title": "Generative Breakbeats with Pattrns + Lua in Renoise",
+    "url": "https://betokis.dev/blog/generative-breakbeats",
+    "date": "2026-02-10",
+    "summary": "Exploring algorithmic drum pattern generation using Lua scripts in Renoise. Euclidean rhythms, probabilistic fills, and evolving textures.",
+    "tags": ["music", "generative", "renoise", "lua", "pattrns"],
+    "minutes": 8
+  },
+  {
+    "title": "Active Directory Attack Chains: A Methodological Approach",
+    "url": "https://betokis.dev/blog/ad-attack-chains",
+    "date": "2026-01-05",
+    "summary": "Systematic approach to AD penetration testing from enumeration to domain dominance. Practical methodology with real HTB machine references.",
+    "tags": ["cybersecurity", "active-directory", "pentesting", "htb"],
+    "minutes": 18
+  }
+]

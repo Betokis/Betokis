@@ -1,0 +1,132 @@
+[
+  {
+    "id": "ib-connection",
+    "name": "IB Connection",
+    "tagline": "EdTech platform for IB Diploma students — organizational intelligence meets academic excellence",
+    "description": "Full-stack platform helping IB students at Liceo de Cervantes Barranquilla manage coursework, deadlines, CAS tracking, and exam prep. Built with React, Node.js, PostgreSQL, and deployed on AWS. Features real-time collaboration, AI-powered study recommendations, and offline-first PWA.",
+    "longDescription": "IB Connection was born from watching brilliant students drown in the complexity of the IB Diploma Programme. The platform centralizes everything: subject dashboards with progress tracking, CAS portfolio builder with reflection templates, EE/IA timeline manager, and a smart calendar that understands IB-specific deadlines. The backend uses a microservices architecture with GraphQL federation, enabling real-time updates across devices. PostgreSQL with row-level security handles multi-tenant data isolation. Deployed on AWS ECS with CloudFront CDN, achieving 99.9% uptime and <200ms p95 latency globally.",
+    "techStack": ["React", "TypeScript", "Node.js", "PostgreSQL", "GraphQL", "AWS", "Docker", "TailwindCSS", "PWA"],
+    "category": "Full-Stack / EdTech",
+    "status": "Production",
+    "links": {
+      "demo": "https://floret-reader-02117305.figma.site",
+      "repo": "https://github.com/Betokis/Ib-Connection-ProyectV1.0",
+      "caseStudy": null
+    },
+    "metrics": {
+      "users": "200+",
+      "uptime": "99.9%",
+      "latency": "<200ms"
+    },
+    "screenshots": [
+      "assets/images/ib-connection-dashboard.png",
+      "assets/images/ib-connection-cas.png"
+    ],
+    "featured": true,
+    "order": 1
+  },
+  {
+    "id": "my-life-os",
+    "name": "My Life OS",
+    "tagline": "Gamified, AI-coached single-user life management — your operating system for intentional living",
+    "description": "A comprehensive personal operating system combining PARA methodology, Zettelkasten knowledge management, habit tracking with streaks, goal decomposition (OKRs), journaling with AI insights, and life area dashboards. Built as a local-first web app with IndexedDB, optional Supabase sync, and a beautiful dark/light theme system.",
+    "longDescription": "Life OS treats your life like a well-architected system. Four pillars: Projects (actionable outcomes with next actions), Areas (ongoing responsibilities with standards), Resources (curated knowledge with bidirectional links), Archives (completed/inactive). The AI coach analyzes patterns in your journaling, habits, and project velocity to suggest course corrections weekly. Habit system uses exponential backoff for missed days — no guilt spirals. Goals decompose from 10-year vision → yearly OKRs → quarterly rocks → weekly sprints → daily highlights. All data stays local (IndexedDB) with optional end-to-end encrypted Supabase sync. Built with SvelteKit, TypeScript, and a custom design system.",
+    "techStack": ["SvelteKit", "TypeScript", "IndexedDB", "Supabase", "TailwindCSS", "Chart.js", "OpenAI API", "PWA"],
+    "category": "Full-Stack / Personal Tooling",
+    "status": "Active Development",
+    "links": {
+      "demo": "https://my-life-os.vercel.app",
+      "repo": "https://github.com/Betokis/My-life-OS",
+      "caseStudy": "https://betokis.dev/life-os-case-study"
+    },
+    "metrics": {
+      "dailyActive": "1 (me)",
+      "dataPoints": "10,000+",
+      "aiInsights": "Weekly"
+    },
+    "screenshots": [
+      "assets/images/life-os-dashboard.png",
+      "assets/images/life-os-habits.png"
+    ],
+    "featured": true,
+    "order": 2
+  },
+  {
+    "id": "htb-second-brain",
+    "name": "HTB Second Brain",
+    "tagline": "Bilingual cognitive system for CJCA certification — Zettelkasten + PARA + CODE methodology",
+    "description": "Obsidian-based knowledge management system designed for Hack The Box CJCA certification preparation. 500+ atomic notes covering web exploitation, privilege escalation, Active Directory, cloud security, and malware analysis. Bilingual (ES/EN) with spaced repetition integration, CTF writeup templates, and methodology cheatsheets.",
+    "longDescription": "This isn't just a vault — it's a cognitive accelerator. Built on the CODE framework (Capture, Organize, Distill, Express) with PARA structure. Every HTB machine, Academy module, and certification topic gets a dedicated note with: attack path diagram (Mermaid), command reference, mitigation strategies, and cross-references to related concepts. Spaced repetition via Obsidian Spaced Repetition plugin ensures retention. Bilingual tags enable seamless context switching. Includes automated CTF writeup generator that produces publication-ready markdown from structured templates. The system reduced my CJCA prep time by ~40% compared to linear study.",
+    "techStack": ["Obsidian", "Markdown", "Mermaid", "Dataview", "Spaced Repetition", "Templater", "Git"],
+    "category": "Knowledge Management / Cybersecurity",
+    "status": "Active",
+    "links": {
+      "demo": null,
+      "repo": "https://github.com/Betokis/htb-second-brain",
+      "caseStudy": "https://betokis.dev/htb-second-brain"
+    },
+    "metrics": {
+      "notes": "500+",
+      "languages": "ES/EN",
+      "retentionRate": "87%"
+    },
+    "screenshots": [
+      "assets/images/htb-brain-graph.png",
+      "assets/images/htb-brain-note.png"
+    ],
+    "featured": true,
+    "order": 3
+  },
+  {
+    "id": "nexus-os",
+    "name": "NexusOS",
+    "tagline": "Experimental distributed systems playground — exploring consensus, CRDTs, and edge computing",
+    "description": "A research project implementing a distributed operating system prototype in Rust. Features: Raft consensus for metadata, CRDT-based file synchronization, WebAssembly runtime for edge functions, and a capability-based security model. Currently exploring conflict-free replicated data types for offline-first collaboration.",
+    "longDescription": "NexusOS asks: what if the OS was distributed by default? The kernel coordinates a cluster of nodes running a modified WebAssembly runtime. Files are CRDTs (Yjs-inspired) — merge automatically, work offline, sync when online. Raft manages the namespace metadata (permissions, paths, versions). Capability-based security replaces ACLs: every syscall carries a capability token. The scheduler places WASM modules on nodes based on data locality, latency, and resource constraints. Written in Rust with async-std, tokio, and custom WASM host. Not production-ready — a learning vehicle for distributed systems, consensus, and language runtimes.",
+    "techStack": ["Rust", "WebAssembly", "Raft", "CRDTs", "tokio", "async-std", "Yjs", "Capability Security"],
+    "category": "Systems / Distributed Computing",
+    "status": "Research",
+    "links": {
+      "demo": null,
+      "repo": "https://github.com/Betokis/NexusOS",
+      "caseStudy": "https://betokis.dev/nexusos-architecture"
+    },
+    "metrics": {
+      "nodes": "5",
+      "consensusLatency": "<50ms",
+      "crdtMergeTime": "<10ms"
+    },
+    "screenshots": [
+      "assets/images/nexusos-cluster.png",
+      "assets/images/nexusos-crdt.png"
+    ],
+    "featured": true,
+    "order": 4
+  },
+  {
+    "id": "searchthebox",
+    "name": "SearchTheBox",
+    "tagline": "HTB machine search & writeup navigator — built with S4vitar's methodology",
+    "description": "CLI tool and web interface for searching Hack The Box machines by difficulty, OS, tags, and release date. Integrates with HTB API for real-time data. Includes writeup templates following S4vitar's methodology, automated report generation, and a TUI for terminal lovers.",
+    "longDescription": "Born from frustration with HTB's web UI during certification prep. SearchTheBox lets you filter machines like: `stb search --os linux --difficulty medium --tags active-directory,web --retired false`. The web UI adds visual difficulty heatmaps, tag co-occurrence networks, and a 'study path' generator that orders machines for optimal skill progression. Writeup templates enforce S4vitar's structure: Reconnaissance → Enumeration → Exploitation → Privilege Escalation → Post-Exploitation → Lessons Learned. Exports to PDF, Notion, Obsidian, and GitHub. Built with Go, Bubble Tea (TUI), and React (web).",
+    "techStack": ["Go", "Bubble Tea", "React", "TypeScript", "HTB API", "PDF Generation", "Cobra"],
+    "category": "CLI / Cybersecurity Tooling",
+    "status": "Maintained",
+    "links": {
+      "demo": "https://searchthebox.dev",
+      "repo": "https://github.com/Betokis/SearchTheBox-v1.0",
+      "caseStudy": null
+    },
+    "metrics": {
+      "machinesIndexed": "600+",
+      "downloads": "1,200+",
+      "stars": "45"
+    },
+    "screenshots": [
+      "assets/images/searchthebox-cli.png",
+      "assets/images/searchthebox-web.png"
+    ],
+    "featured": false,
+    "order": 5
+  }
+]

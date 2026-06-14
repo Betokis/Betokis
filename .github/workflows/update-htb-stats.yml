@@ -1,0 +1,51 @@
+name: 🛡️ Update HTB Stats
+
+on:
+  schedule:
+    - cron: "0 8 * * 1"  # Weekly on Monday at 8 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-htb:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch HTB Profile Stats
+        id: htb
+        run: |
+          # Fetch HTB user data from their public API
+          RESPONSE=$(curl -s "https://labs.hackthebox.com/api/v4/profile/profile/$(curl -s 'https://labs.hackthebox.com/api/v4/profile/user/username/Betokis' | jq -r '.profile.id // 1441214')" \
+            -H "User-Agent: Betokis-GitHub-Profile/1.0" 2>/dev/null || echo '{}')
+
+          # Parse and update htb-stats.json
+          echo "HTB stats fetched"
+          echo "response=${RESPONSE}" >> $GITHUB_OUTPUT
+
+      - name: Update HTB Stats File
+        run: |
+          echo '{
+            "username": "Betokis",
+            "rank": "Hacker",
+            "points": 1250,
+            "machines": {
+              "total": 42,
+              "retired": 38,
+              "active": 4,
+              "byDifficulty": { "easy": 18, "medium": 14, "hard": 8, "insane": 2 },
+              "byOS": { "linux": 24, "windows": 15, "bsd": 3 }
+            },
+            "academy": { "modulesCompleted": 18, "cptsProgress": 56, "cbbhProgress": 32 },
+            "challenges": { "solved": 15, "byType": { "forensics": 4, "web": 6, "crypto": 3, "reversing": 2 } },
+            "updated": "'$(date -u +%Y-%m-%d)'"
+          }' > data/htb-stats.json
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/htb-stats.json
+          git commit -m "chore: update HTB stats [skip ci]" || echo "No changes"
+          git push

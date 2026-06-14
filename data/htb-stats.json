@@ -1,0 +1,36 @@
+{
+  "username": "Betokis",
+  "rank": "Hacker",
+  "points": 1250,
+  "machines": {
+    "total": 42,
+    "retired": 38,
+    "active": 4,
+    "byDifficulty": {
+      "easy": 18,
+      "medium": 14,
+      "hard": 8,
+      "insane": 2
+    },
+    "byOS": {
+      "linux": 24,
+      "windows": 15,
+      "bsd": 3
+    }
+  },
+  "academy": {
+    "modulesCompleted": 18,
+    "cptsProgress": 56,
+    "cbbhProgress": 32
+  },
+  "challenges": {
+    "solved": 15,
+    "byType": {
+      "forensics": 4,
+      "web": 6,
+      "crypto": 3,
+      "reversing": 2
+    }
+  },
+  "updated": "2026-06-13"
+}

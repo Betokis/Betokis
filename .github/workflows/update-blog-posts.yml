@@ -1,0 +1,58 @@
+name: 📝 Update Blog Posts
+
+on:
+  schedule:
+    - cron: "0 7 * * *"  # Daily at 7 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Latest Blog Posts
+        id: blog
+        run: |
+          # Try fetching RSS feed if available
+          RSS_URL="https://betokis.dev/blog/rss.xml"
+          HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" "$RSS_URL" 2>/dev/null || echo "000")
+
+          if [ "$HTTP_CODE" = "200" ]; then
+            echo "RSS feed found, fetching posts..."
+            curl -s "$RSS_URL" > /tmp/rss.xml
+            # Parse RSS with python
+            python3 -c "
+import xml.etree.ElementTree as ET
+import json
+import datetime
+
+tree = ET.parse('/tmp/rss.xml')
+root = tree.getroot()
+items = root.findall('.//item')
+posts = []
+for item in items[:5]:
+    title = item.findtext('title', '')
+    link = item.findtext('link', '')
+    pubDate = item.findtext('pubDate', '')
+    desc = item.findtext('description', '')
+    posts.append({'title': title, 'url': link, 'date': pubDate, 'summary': desc[:200]})
+
+with open('data/blog-posts.json', 'w') as f:
+    json.dump(posts, f, indent=2)
+print('Blog posts updated from RSS')
+"
+          else
+            echo "No RSS feed available (HTTP $HTTP_CODE). Using existing data."
+            echo "Blog posts unchanged"
+          fi
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/blog-posts.json
+          git commit -m "chore: update blog posts [skip ci]" || echo "No changes"
+          git push

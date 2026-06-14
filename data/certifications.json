@@ -1,0 +1,33 @@
+[
+  {
+    "title": "CJCA — Certified Junior Cybersecurity Analyst",
+    "provider": "Hack The Box",
+    "status": "in-progress",
+    "startDate": "2025-12",
+    "targetDate": "2026-09",
+    "badge": "https://img.shields.io/badge/CJCA-In%20Progress-orange?style=flat-square&logo=hackthebox",
+    "description": "Comprehensive entry-level certification covering web, network, and AD security fundamentals",
+    "modulesCompleted": 18,
+    "modulesTotal": 32
+  },
+  {
+    "title": "eCPPTv2 — Professional Penetration Testing",
+    "provider": "eLearnSecurity / INE",
+    "status": "planned",
+    "targetDate": "2027-03",
+    "badge": "https://img.shields.io/badge/eCPPTv2-Planned-lightgrey?style=flat-square",
+    "description": "Industry-standard professional penetration testing certification",
+    "modulesCompleted": 0,
+    "modulesTotal": 20
+  },
+  {
+    "title": "Pentest+",
+    "provider": "CompTIA",
+    "status": "planned",
+    "targetDate": "2027-06",
+    "badge": "https://img.shields.io/badge/Pentest%2B-Planned-lightgrey?style=flat-square&logo=comptia",
+    "description": "General penetration testing and vulnerability management certification",
+    "modulesCompleted": 0,
+    "modulesTotal": 12
+  }
+]

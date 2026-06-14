@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "name": "Cybersecurity",
+      "icon": "🛡️",
+      "color": "#ff6b6b",
+      "skills": [
+        { "name": "Penetration Testing", "proficiency": 85, "superpower": "Web exploitation & AD chains", "icon": "🔍" },
+        { "name": "Kali Linux", "proficiency": 90, "superpower": "Tool scripting & automation", "icon": "🐉" },
+        { "name": "Network Security", "proficiency": 80, "superpower": "Protocol fuzzing & firewalking", "icon": "🌐" },
+        { "name": "CTF / HTB", "proficiency": 88, "superpower": "Read the source, always", "icon": "🏴" },
+        { "name": "Malware Analysis", "proficiency": 65, "superpower": "Static + dynamic in sandbox", "icon": "🔬" },
+        { "name": "OSINT", "proficiency": 72, "superpower": "Connect the invisible dots", "icon": "🕵️" }
+      ]
+    },
+    {
+      "name": "Full-Stack Development",
+      "icon": "💻",
+      "color": "#00d4aa",
+      "skills": [
+        { "name": "Python", "proficiency": 92, "superpower": "Fast prototypes, cleaner code", "icon": "🐍" },
+        { "name": "JavaScript / TypeScript", "proficiency": 88, "superpower": "Type-safe everything", "icon": "📜" },
+        { "name": "React / SvelteKit", "proficiency": 85, "superpower": "SSR + hydration mastery", "icon": "⚛️" },
+        { "name": "Node.js", "proficiency": 82, "superpower": "Streams, clusters, microservices", "icon": "🟢" },
+        { "name": "PostgreSQL", "proficiency": 80, "superpower": "Window functions & query tuning", "icon": "🐘" },
+        { "name": "GraphQL", "proficiency": 75, "superpower": "Schema-first design", "icon": "◈" },
+        { "name": "Rust", "proficiency": 60, "superpower": "Zero-cost abstractions learner", "icon": "🦀" },
+        { "name": "Docker / AWS", "proficiency": 78, "superpower": "Docker compose to ECS", "icon": "🐳" }
+      ]
+    },
+    {
+      "name": "Music Production",
+      "icon": "🎵",
+      "color": "#a855f7",
+      "skills": [
+        { "name": "Piano / Theory", "proficiency": 82, "superpower": "Jazz harmony & modal interchange", "icon": "🎹" },
+        { "name": "DAW Production", "proficiency": 85, "superpower": "Renoise tracking + VST orchestration", "icon": "🎛️" },
+        { "name": "Generative Music", "proficiency": 70, "superpower": "Lua scripts for algorithmic composition", "icon": "🤖" },
+        { "name": "Sound Design", "proficiency": 75, "superpower": "Subtractive + FM + granular", "icon": "🔊" }
+      ]
+    },
+    {
+      "name": "Knowledge Systems",
+      "icon": "🧠",
+      "color": "#3b82f6",
+      "skills": [
+        { "name": "Zettelkasten", "proficiency": 90, "superpower": "Atomic notes + bidirectional links", "icon": "🗂️" },
+        { "name": "PARA Method", "proficiency": 85, "superpower": "Folders as actions, tags as context", "icon": "📋" },
+        { "name": "Obsidian Dataview", "proficiency": 80, "superpower": "SQL for your notes", "icon": "📊" },
+        { "name": "Spaced Repetition", "proficiency": 75, "superpower": "FSRS algorithm optimisation", "icon": "🔄" }
+      ]
+    }
+  ]
+}
