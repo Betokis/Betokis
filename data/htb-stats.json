@@ -11,5 +11,5 @@
   },
   "academy": { "modulesCompleted": 18, "cptsProgress": 56, "cbbhProgress": 32 },
   "challenges": { "solved": 15, "byType": { "forensics": 4, "web": 6, "crypto": 3, "reversing": 2 } },
-  "updated": "2026-06-29"
+  "updated": "2026-07-06"
 }
