@@ -3,7 +3,7 @@
 <a href="https://github.com/Betokis">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Betokis/Betokis/raw/main/assets/svg/hero-terminal.svg">
-    <img alt="Betokis Terminal Hero" src="https://github.com/Betokis/Betokis/raw/main/assets/svg/hero-terminal.svg" width="100%" style="max-width: 800px;">
+    <img alt="Betokis Terminal" src="https://github.com/Betokis/Betokis/raw/main/assets/svg/hero-terminal.svg" width="100%" style="max-width: 800px;">
   </picture>
 </a>
 
@@ -39,7 +39,7 @@
 <h2>🎯 Who I Am</h2>
 
 <p>
-<b>IB Diploma student in my final year</b>, on track to study <b>Computer Science</b> at university. But my real classroom has been the terminal — thousands of hours in cybersecurity labs, CTF competitions, and building production systems from scratch.
+<b>IB Diploma student in my final year</b>, on track to study <b>Computer Science</b> at university.thousands of hours in cybersecurity labs, CTF competitions, and building production systems from scratch.
 </p>
 
 <p>
@@ -51,7 +51,7 @@
 </p>
 
 <p>
-<b>Talk is cheap. Show me the code</b> — that's not a tagline, it's my life.
+<b>Talk is cheap. Show me the code</b> — fr
 </p>
 
 <br>
@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td><b>🌐 Languages:</b></td>
-    <td>English A HL • Spanish A HL • French B SL</td>
+    <td>English A HL • Spanish A HL</td>
   </tr>
 </table>
 
