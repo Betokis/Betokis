@@ -12,9 +12,9 @@
 
 ```bash
 guest@betokis:~$ cat about.md
-> researching how permission models fail, and what that reveals
+> Learning and creating in C/C++
 > currently deep in Linux kernel internals + applied cybersecurity
-> open software isn't a license, it's an argument for trust you can verify
+> Talk is cheap. Show me the code
 ```
 
 <br>
@@ -50,10 +50,10 @@ guest@betokis:~$ cat about.md
 
 ### `$ ps aux | grep active`
 
-- 🔍 dissecting Linux kernel permission models
+- 🔍 learning more and more
 - 🎯 chasing the CJCA (Certified Junior Cybersecurity Analyst) on Hack The Box
 - 🎓 finishing Google's Cybersecurity Certificate
-- 🌱 shipping small, committing often
+- 🌱 Chasing peace
 
 <br>
 
