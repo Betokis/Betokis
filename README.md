@@ -43,7 +43,7 @@
 </p>
 
 <p>
-<b>Cybersecurity is my expertise.</b> I eat, sleep, and breathe penetration testing, Active Directory exploitation, and ethical hacking. Every machine rooted, every network pivoted, every chain executed — that's where I've earned my stripes. I'm currently crushing the HTB CJCA certification and plotting my path to eCPPTv2.
+<b>Cybersecurity is my expertise.</b> I love cyber, Active Directory exploitation, and ethical hacking. Every machine rooted, every network pivoted, every chain executed — that's where I've earned my stripes. I'm currently crushing the HTB CJCA certification and plotting my path to eCPPTv2.
 </p>
 
 <p>
@@ -51,7 +51,7 @@
 </p>
 
 <p>
-<b>Student by day. Hacker by night. Builder always.</b> — that's not a tagline, it's my life.
+<b>Talk is cheap. Show me the code</b> — that's not a tagline, it's my life.
 </p>
 
 <br>
